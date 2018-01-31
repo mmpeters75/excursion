@@ -4,12 +4,21 @@ body {
   color: white;
   font-family: Verdana;
 }
-
 .top_header {
   font-size: 50px;
 }
-
+.travel_guide {
+  font-size: 42px;
+  font-weight: 300;
+}
 a {
   color: aquamarine;
   font-size: 16px;
+}
+p {
+  color: gray;
+  font-size: 21px;
+}
+#copyright {
+  text-align: right;
 }
